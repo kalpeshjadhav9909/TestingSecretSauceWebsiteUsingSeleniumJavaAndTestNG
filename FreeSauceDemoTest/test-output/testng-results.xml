@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-28T23:36:01 IST" name="AllPagesTestCases" finished-at="2023-06-28T23:37:01 IST" duration-ms="59305">
+    <groups>
+    </groups>
+    <test started-at="2023-06-28T23:36:01 IST" name="AllPagesTestCases" finished-at="2023-06-28T23:37:01 IST" duration-ms="59305">
+      <class name="com.sauce.qa.testcases.CartPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauce.qa.testcases.CartPageTest@6025e1b6]" started-at="2023-06-28T23:36:30 IST" name="setUp" finished-at="2023-06-28T23:36:33 IST" duration-ms="3635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickCheckoutTest()[pri:0, instance:com.sauce.qa.testcases.CartPageTest@6025e1b6]" started-at="2023-06-28T23:36:33 IST" name="clickCheckoutTest" finished-at="2023-06-28T23:36:33 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCheckoutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.CartPageTest@6025e1b6]" started-at="2023-06-28T23:36:33 IST" name="tearDown" finished-at="2023-06-28T23:36:34 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauce.qa.testcases.CartPageTest@6025e1b6]" started-at="2023-06-28T23:36:34 IST" name="setUp" finished-at="2023-06-28T23:36:37 IST" duration-ms="3509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="removeBackpack()[pri:0, instance:com.sauce.qa.testcases.CartPageTest@6025e1b6]" started-at="2023-06-28T23:36:37 IST" name="removeBackpack" finished-at="2023-06-28T23:36:37 IST" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeBackpack -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.CartPageTest@6025e1b6]" started-at="2023-06-28T23:36:37 IST" name="tearDown" finished-at="2023-06-28T23:36:38 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauce.qa.testcases.CartPageTest -->
+      <class name="com.sauce.qa.testcases.CheckoutCompletePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauce.qa.testcases.CheckoutCompletePageTest@4c402120]" started-at="2023-06-28T23:36:54 IST" name="setUp" finished-at="2023-06-28T23:37:00 IST" duration-ms="5569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySuccessMessage()[pri:0, instance:com.sauce.qa.testcases.CheckoutCompletePageTest@4c402120]" started-at="2023-06-28T23:37:00 IST" name="verifySuccessMessage" finished-at="2023-06-28T23:37:00 IST" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.CheckoutCompletePageTest@4c402120]" started-at="2023-06-28T23:37:00 IST" name="tearDown" finished-at="2023-06-28T23:37:01 IST" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauce.qa.testcases.CheckoutCompletePageTest -->
+      <class name="com.sauce.qa.testcases.CheckoutOverviewPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.sauce.qa.testcases.CheckoutOverviewPageTest@2d1ef81a]" started-at="2023-06-28T23:36:43 IST" name="setup" finished-at="2023-06-28T23:36:47 IST" duration-ms="4464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickFinishTest()[pri:0, instance:com.sauce.qa.testcases.CheckoutOverviewPageTest@2d1ef81a]" started-at="2023-06-28T23:36:47 IST" name="clickFinishTest" finished-at="2023-06-28T23:36:47 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFinishTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.CheckoutOverviewPageTest@2d1ef81a]" started-at="2023-06-28T23:36:47 IST" name="tearDown" finished-at="2023-06-28T23:36:47 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.sauce.qa.testcases.CheckoutOverviewPageTest@2d1ef81a]" started-at="2023-06-28T23:36:47 IST" name="setup" finished-at="2023-06-28T23:36:53 IST" duration-ms="5869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyItemNameTest()[pri:0, instance:com.sauce.qa.testcases.CheckoutOverviewPageTest@2d1ef81a]" started-at="2023-06-28T23:36:53 IST" name="verifyItemNameTest" finished-at="2023-06-28T23:36:53 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyItemNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.CheckoutOverviewPageTest@2d1ef81a]" started-at="2023-06-28T23:36:53 IST" name="tearDown" finished-at="2023-06-28T23:36:54 IST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauce.qa.testcases.CheckoutOverviewPageTest -->
+      <class name="com.sauce.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:11 IST" name="setUP" finished-at="2023-06-28T23:36:15 IST" duration-ms="3625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="addingBackPackToCartTest()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:15 IST" name="addingBackPackToCartTest" finished-at="2023-06-28T23:36:15 IST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingBackPackToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:15 IST" name="tearDown" finished-at="2023-06-28T23:36:15 IST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:15 IST" name="setUP" finished-at="2023-06-28T23:36:20 IST" duration-ms="4360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="addingBikeLightToCartTest()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:20 IST" name="addingBikeLightToCartTest" finished-at="2023-06-28T23:36:20 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingBikeLightToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:20 IST" name="tearDown" finished-at="2023-06-28T23:36:20 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:20 IST" name="setUP" finished-at="2023-06-28T23:36:25 IST" duration-ms="4687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="goToCartTest()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:25 IST" name="goToCartTest" finished-at="2023-06-28T23:36:25 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:25 IST" name="tearDown" finished-at="2023-06-28T23:36:25 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:25 IST" name="setUP" finished-at="2023-06-28T23:36:30 IST" duration-ms="4029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="verifyHomePageTitleTest()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:30 IST" name="verifyHomePageTitleTest" finished-at="2023-06-28T23:36:30 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.HomePageTest@40a4337a]" started-at="2023-06-28T23:36:30 IST" name="tearDown" finished-at="2023-06-28T23:36:30 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauce.qa.testcases.HomePageTest -->
+      <class name="com.sauce.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauce.qa.testcases.LoginPageTest@34123d65]" started-at="2023-06-28T23:36:01 IST" name="setUp" finished-at="2023-06-28T23:36:07 IST" duration-ms="5428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.sauce.qa.testcases.LoginPageTest@34123d65]" started-at="2023-06-28T23:36:07 IST" name="loginPageTitleTest" finished-at="2023-06-28T23:36:07 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.LoginPageTest@34123d65]" started-at="2023-06-28T23:36:07 IST" name="tearDown" finished-at="2023-06-28T23:36:07 IST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauce.qa.testcases.LoginPageTest@34123d65]" started-at="2023-06-28T23:36:07 IST" name="setUp" finished-at="2023-06-28T23:36:10 IST" duration-ms="3502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:2, instance:com.sauce.qa.testcases.LoginPageTest@34123d65]" started-at="2023-06-28T23:36:10 IST" name="loginTest" finished-at="2023-06-28T23:36:11 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.LoginPageTest@34123d65]" started-at="2023-06-28T23:36:11 IST" name="tearDown" finished-at="2023-06-28T23:36:11 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauce.qa.testcases.LoginPageTest -->
+      <class name="com.sauce.qa.testcases.CheckoutPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.sauce.qa.testcases.CheckoutPageTest@22ff4249]" started-at="2023-06-28T23:36:38 IST" name="setUp" finished-at="2023-06-28T23:36:42 IST" duration-ms="4414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkoutTest()[pri:0, instance:com.sauce.qa.testcases.CheckoutPageTest@22ff4249]" started-at="2023-06-28T23:36:42 IST" name="checkoutTest" finished-at="2023-06-28T23:36:42 IST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauce.qa.testcases.CheckoutPageTest@22ff4249]" started-at="2023-06-28T23:36:42 IST" name="tearDown" finished-at="2023-06-28T23:36:43 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauce.qa.testcases.CheckoutPageTest -->
+    </test> <!-- AllPagesTestCases -->
+  </suite> <!-- AllPagesTestCases -->
+</testng-results>

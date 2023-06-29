@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AllPagesTestCases">
+  <test name="AllPagesTestCases">
+    <classes>
+      <class name="com.sauce.qa.testcases.LoginPageTest"/>
+      <class name="com.sauce.qa.testcases.HomePageTest"/>
+      <class name="com.sauce.qa.testcases.CartPageTest"/>
+      <class name="com.sauce.qa.testcases.CheckoutPageTest"/>
+      <class name="com.sauce.qa.testcases.CheckoutOverviewPageTest"/>
+      <class name="com.sauce.qa.testcases.CheckoutCompletePageTest"/>
+    </classes>
+  </test> <!-- AllPagesTestCases -->
+</suite> <!-- AllPagesTestCases -->
